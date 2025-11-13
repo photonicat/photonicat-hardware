@@ -1,6 +1,7 @@
 ## Disclaimer
+<img src="wiki_pcat2.png" alt="Photonicat 2 Overview" width="400">
 
-The **Photonicat Team** is doing our best to provide **open-source software and hardware** for the community.  
+Our **Photonicat Team** is doing our best to provide **open-source software and hardware** for the community.  
 However, please note that all released hardware **may contain mistakes or design issues**.
 
 You are welcome to use our work as a **reference** or to **modify and adapt it** for your own projects.  
